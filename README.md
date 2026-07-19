@@ -1,10 +1,6 @@
 # PocketJS
 Definitely not inspired by that monster-catching game from the late '90s. Built from scratch with HTML5 Canvas and vanilla JavaScript.
 
-# Pixel Monsters 👾
-
-> Definitely not inspired by that monster-catching game from the late '90s.
-
 A small browser RPG I've wanted to build for a while.
 
 I grew up playing way too many classic monster-catching games, so this is my excuse to learn game development by recreating that feeling from scratch with HTML5 Canvas and vanilla JavaScript. No game engine, just code, trial and error, and lots of console logs.
